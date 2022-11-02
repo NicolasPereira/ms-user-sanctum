@@ -44,9 +44,5 @@ docker-compose exec web php artisan migrate
 ```
 
 # Autor
-Nicolas Pereira </br>
-[LinkedIn](https://www.linkedin.com/in/nicolas-pereira/) [Twitter](https://twitter.com/devnic_)
+Nicolas Pereira | [LinkedIn](https://www.linkedin.com/in/nicolas-pereira/) | [Twitter](https://twitter.com/devnic_)
 
-### Tempo total de projeto
-Utilizo o Wakatime para ter algumas métricas sobre meu tempo desenvolvendo alguns projetos, neste projeto
-foram investindos 30h, desde a criação do repositório até este último commit.
